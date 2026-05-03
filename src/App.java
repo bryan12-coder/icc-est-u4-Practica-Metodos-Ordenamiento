@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class App {  
     public static void main(String[] args) throws Exception {
-        int[] array = {2,0,-15,10,20,-3,-5,7};
+        int[] array = {12,-7,25,0,-15,33,19,-22,5,48,-3};
         Scanner sc = new Scanner(System.in);
         int opcion;
         do {
